@@ -1,0 +1,6 @@
+{
+  "name": "SentinelShield - Digital Risk Protection Platform",
+  "description": "Enterprise Digital Risk Protection (DRP) platform featuring brand impersonation detection, rogue mobile app monitoring, look-alike domain/handle discovery, risk scoring, official asset exclusion, and Gemini AI Cyber Analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
